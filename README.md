@@ -15,6 +15,17 @@
     - [Courses](#courses)
   - [Topics](#topics)
     - [Algorithm and data structures](#algorithm-and-data-structures)
+    - [Version control (Git)](#version-control-git)
+    - [Shell (command line)](#shell-command-line)
+    - [Editors & IDE](#editors--ide)
+    - [Linux (system management)](#linux-system-management)
+    - [Regex](#regex)
+    - [SQL](#sql)
+    - [Databases](#databases)
+      - [NoSQL](#nosql)
+      - [Postgres](#postgres)
+    - [Web development](#web-development)
+
     - [API design & development](#api-design--development)
     - [Attitude, habits, mindset](#attitude-habits-mindset)
       - [Procrastination](#procrastination)
@@ -36,9 +47,6 @@
     - [Compilers](#compilers)
     - [Configuration](#configuration)
     - [Continuous Integration (CI)](#continuous-integration-ci)
-    - [Databases](#databases)
-      - [NoSQL](#nosql)
-      - [Postgres](#postgres)
     - [Data formats](#data-formats)
     - [Data science/data engineering](#data-sciencedata-engineering)
     - [Debugging](#debugging)
@@ -52,7 +60,6 @@
     - [Docker](#docker)
     - [Documentation](#documentation)
     - [Dotfiles](#dotfiles)
-    - [Editors & IDE](#editors--ide)
     - [Email](#email)
     - [Engineering management](#engineering-management)
     - [Exercises](#exercises)
@@ -71,7 +78,6 @@
     - [Large Language Model (LLM)](#large-language-model-llm)
     - [Learning & memorizing](#learning--memorizing)
     - [Licenses (legal)](#licenses-legal)
-    - [Linux (system management)](#linux-system-management)
     - [Low-code/no-code](#low-codeno-code)
     - [Low-level, assembly](#low-level-assembly)
     - [Machine learning/AI](#machine-learningai)
@@ -112,8 +118,6 @@
       - [Resiliency](#resiliency)
     - [Search](#search)
     - [Security](#security)
-    - [Shell (command line)](#shell-command-line)
-    - [SQL](#sql)
     - [System administration](#system-administration)
     - [System architecture](#system-architecture)
       - [Architecture patterns](#architecture-patterns)
@@ -124,9 +128,7 @@
     - [Testing](#testing)
     - [Tools](#tools)
     - [Type system](#type-system)
-    - [Version control (Git)](#version-control-git)
     - [Work ethics, productivity & work/life balance](#work-ethics-productivity--worklife-balance)
-    - [Web development](#web-development)
     - [Writing (communication, blogging)](#writing-communication-blogging)
   - [Resources & inspiration for presentations](#resources--inspiration-for-presentations)
   - [Keeping up-to-date](#keeping-up-to-date)
@@ -140,8 +142,6 @@
 > Give me six hours to chop down a tree and I will spend the first four sharpening the axe. (Abraham Lincoln)
 
 A collection of full-stack resources for programmers.
-
-The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 
 ## Principles
 
